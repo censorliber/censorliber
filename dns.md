@@ -33,3 +33,5 @@
 ![image](https://github.com/user-attachments/assets/32f9c01b-cc1f-41bb-9995-ad6d26377aef)
 
 При необходимости, задайте DNS для IPv6 (обычно не требуется).
+
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=64298&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
