@@ -1,3 +1,11 @@
+## DNS Jumper
+Скачайте программу https://www.sordum.org/downloads/?dns-jumper
+
+Выберите `Все адаптеры`, потом наведите на `Google DNS` и нажмите применить
+
+![image](https://github.com/user-attachments/assets/3565bf02-1cf2-42be-8bb4-f3887d248ec3)
+
+
 ## Еще один способ изменить DNS сервер в Windows 10
 
 В Windows 10 присутствует дополнительный метод изменения DNS-сервера для Интернет-подключения:
