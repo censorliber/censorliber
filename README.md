@@ -1,4 +1,4 @@
-### [Скачать Zapret](https://github.com/censorliber/zapret)
+### <img src="https://i.imgur.com/uABXHHI.png" width="20px"></img> [Скачать Zapret](https://github.com/censorliber/zapret)
 
 ### [Скачать RoskomFree](https://github.com/censorliber/roskomFree)
 
