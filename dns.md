@@ -34,4 +34,4 @@
 
 При необходимости, задайте DNS для IPv6 (обычно не требуется).
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=64298&s=1' border='0' alt='Free Website Counter'></a><br / ><small></small></div>
+<div align='center'><a href=''><img src='https://www.websitecounterfree.com/c.php?d=9&id=64298&s=1' border='0' alt='Free Website Counter'></a><br / ><small></small></div>
